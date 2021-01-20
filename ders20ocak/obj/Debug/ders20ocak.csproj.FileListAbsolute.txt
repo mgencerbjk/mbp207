@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ders20ocak\ders20ocak\bin\Debug\ders20ocak.exe.config
+C:\Users\User\source\repos\ders20ocak\ders20ocak\bin\Debug\ders20ocak.exe
+C:\Users\User\source\repos\ders20ocak\ders20ocak\bin\Debug\ders20ocak.pdb
+C:\Users\User\source\repos\ders20ocak\ders20ocak\obj\Debug\ders20ocak.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ders20ocak\ders20ocak\obj\Debug\ders20ocak.Form1.resources
+C:\Users\User\source\repos\ders20ocak\ders20ocak\obj\Debug\ders20ocak.Properties.Resources.resources
+C:\Users\User\source\repos\ders20ocak\ders20ocak\obj\Debug\ders20ocak.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ders20ocak\ders20ocak\obj\Debug\ders20ocak.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ders20ocak\ders20ocak\obj\Debug\ders20ocak.exe
+C:\Users\User\source\repos\ders20ocak\ders20ocak\obj\Debug\ders20ocak.pdb
